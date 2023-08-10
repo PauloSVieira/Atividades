@@ -4,7 +4,7 @@ altura = 1.71
 peso = 75
 print (nome)
 print (idade , 'anos')
-print (altura ,'de altura')
+print (altura ,'de altura em metros')
 print (peso ,'kg')
 if idade > 18:
     print('Maior de 18 anos')
